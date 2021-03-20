@@ -16,6 +16,7 @@ map <C-k> <C-c>yyddi
 inoremap <C-k> <C-c>yyddi
 map <C-u> <C-c>kpi
 inoremap <C-u> <C-c>kpi
+map - :E<CR>
 
 set nocompatible
 set ttyfast
